@@ -1,0 +1,322 @@
+@font-face{
+	font-family:"Gotham Rounded";
+	src:url("http://www.myfontfree.com/data/502/g/gotham_rounded/GothamRoundedMedium_21022.ttf");
+}
+
+
+p{
+    font-family:"Gotham Rounded";
+}
+
+h3,h4, h1{
+    font-family:"Gotham Rounded";
+    font-weight: bold;
+}
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+    padding: 0px;
+}
+
+.container-fluid{
+    margin: 0px auto;
+    padding: 0px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.top{
+    height: 745px;
+    background-image: url(phototime/images/back.jpg);
+    background-repeat: no-repeat;
+}
+
+.top a{
+    color: white;
+    margin-left: 80px;
+    margin-top: 40px;
+}
+
+.a2{
+    margin-top: 30px;
+    margin-left: 80px;
+}
+
+.a1{
+    margin-left: 100px;
+}
+.top1 h1{
+    margin-top: -400px;
+    text-align: center;
+    color: white;
+}
+
+.top1 p{
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+}
+
+.top1 button{
+    margin-top: 20px;
+    margin-left: 500px;
+    border-radius: 0px;
+    background-color: #16a085;
+}
+
+.im{
+    margin-left:520px;
+    margin-top: 200px;
+}
+.im1{
+    margin-left:0px;
+    margin-top: 200px;
+}
+.im2{
+    margin-left:0px;
+    margin-top: 200px;
+}
+
+.top1 span{
+    margin-left: 15px;
+}
+
+
+.mobile{
+    height: 460px;
+    background-color: #f5f6f7;
+}
+
+.mobile1{
+    margin-top: 80px;
+    margin-left: 100px;
+    z-index: 99999999999999999999;
+    height: 460px;
+}
+
+.mobile1 h4{
+    color: #16a085;
+}
+
+.mobile1 button{
+    margin-top: 20px;
+    border-radius: 0px;
+    background-color: #16a085;
+}
+
+.mobile2{
+    margin-left: -300px;
+    margin-top: 50px;
+    height: 460px;
+    
+}
+
+.mobile11{
+    height: 450px;
+}
+
+.mobile12{
+    margin-left: 100px;
+    margin-top: 50px;
+     height: 450px;
+}
+
+
+
+.mobile13 button{
+    margin-top: 20px;
+    border-radius: 0px;
+    background-color: #16a085;
+}
+
+.mobile13{
+     height: 450px;
+    margin-top: 50px;
+    float: right;
+    margin-right: -100px;
+    
+}
+.mobile13 h3{
+    color: #16a085;
+}
+
+.community{
+    background-color: #f5f6f7;
+    height: 400px;
+}
+
+.community1{
+    margin-top: 60px;
+    margin-left: 0px;
+    height: 400px;
+}
+
+.community1 img{
+    margin-left: 140px;
+}
+
+.community1 h3{
+    text-align: center;
+    
+}
+
+.community1 p{
+    text-align: center;
+}
+
+.community2{
+    margin-top: 30px;
+    margin-left: -40px;
+    height: 400px;
+}
+
+.community3{
+    margin-top: 30px;
+    margin-left: 20px;
+    height: 400px;
+}
+
+.indicate{
+    margin-right: 10px;
+    margin-bottom: 0px;
+    float: right;
+}
+.indicate1{
+    margin-right: 20px;
+    margin-bottom: 0px;
+    float: right;
+}
+
+.community11{
+    height: 790px;
+    background-image: url(phototime/images/footer_top.png);
+    background-repeat: no-repeat;
+}
+
+.community11 p{
+    text-align: center;
+    color: white;
+    margin-top: 350px;
+    font-size: 18px;
+}
+
+.community11 form{
+    margin-left: 500px;
+}
+
+.community11 form>input{
+    width: 200px;
+    height: 40px;
+    margin-left: -70px;
+}
+
+.community11 form>button{
+    background-image: url(phototime/images/tik.PNG);
+    height: 40px;
+    width: 50px;
+    margin-left: -5px;
+    border-radius: 2px;
+}
+
+
+.download{
+    height: 300px;
+    background-color: #f5f6f7;;
+}
+
+.download h3{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.download button{
+    border-radius: 0px;
+    width: 300px;
+    height: 50px;
+    border: none;
+    margin-left: 50px;
+    border-left: none;
+}
+
+
+
+
+.download b1{
+    margin-left: 200px;
+}
+
+.download p{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
+
+.footer{
+    height: 100px;
+}
+
+.footer1{
+    height: 100px;
+}
+
+.footer2{
+    height: 100px;
+}
+
+.footer1 span{
+    margin-top: -20px;
+}
+
+.footer1 a{
+    color: black;
+    margin-left: -10px;
+    margin-top: 20px;
+}
+
+.footer1 p{
+    float: left;
+    margin-left: -295px;
+    margin-top: 20px;
+}
+
+.footer1 span{
+    margin-left: 10px;
+    color: green;
+}
+
+.footer2 img{
+    float: right;
+    margin-top: 20px;
+}
+
+.ab1{
+    margin-left: 50px;
+}
+
+.download button{
+   background-image: url(phototime/images/playstore.PNG);
+    margin-left: 0px;
+    width: 300px;
+    height: 50px;
+    margin-top: 20px;
+    overflow: hidden;
+    border: hidden;
+    float: right;
+    margin-right: 250px;
+    border-radius: 2px;
+}
+
+.download span>button{
+     background-image: url(phototime/images/apple.PNG);
+    width: 300px;
+    height: 50px;
+    margin-top: 20px;
+    overflow: hidden;
+    border: hidden;
+    float: right;
+    margin-right: 10px;
+    border-radius: 2px;
+
+}

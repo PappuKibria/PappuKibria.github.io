@@ -1,0 +1,227 @@
+@font-face{
+	font-family:"Gotham Rounded";
+	src:url("http://www.myfontfree.com/data/502/g/gotham_rounded/GothamRoundedMedium_21022.ttf");
+}
+
+
+p{
+    font-family:"Gotham Rounded";
+}
+
+h3,h4, h1{
+    font-family:"Gotham Rounded";
+    font-weight: bold;
+}
+
+
+.mar_top_25{
+    margin-top: 25px;
+}
+
+.navbar-default{
+    background: rgba(0,0,0, .2);
+    border-color: transparent;
+    box-shadow: none;
+     border-color: transparent;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: transparent;
+}
+
+.navbar-header b{
+    color: #39c9da;
+    margin-left: 50px;
+}
+
+
+.link a{
+    color: white;
+}
+
+.navbar-header a{
+    text-decoration: none;
+    color: white;
+}
+
+.navbar-header a:hover{
+    text-decoration: none;
+    color: #39c9da;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    
+}
+
+.navbar-inverse .navbar-nav > li > a:hover {
+    color: #16A085;
+}
+
+.banner{
+    background-image: url(images/top_bg.jpg);
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.banner_contant{
+    color: white;
+    padding: 432px 0;
+}
+
+.banner_h{
+    font-size: 36px;
+    font-weight: 700;
+    letter-spacing: 03px;
+    color: white;
+    margin-top: 300px;
+    
+}
+
+.banner_btn{
+    background: #39c9da;
+    font-size: 12px;
+    font-weight: bold;
+    border-color: transparent;
+    padding: 13px 34px;
+    border-radius: 4px;
+    color: white;
+    margin-bottom: 30px;
+}
+
+.banner_icon{
+    color: white;
+    font-size: 24px;
+    margin-bottom: 11px;
+}
+
+.about{
+    background-color: #fafafa;
+    margin-bottom: 50px;
+}
+
+.portfolio{
+    background-color: #f4f4f4;
+}
+
+.bal a:hover active{
+    color: #39c9da;
+}
+
+.portfolio p{
+    margin-top: 15px;
+}
+
+
+.portfolio1{
+    margin-top: 50px;
+}
+
+.portfolio2{
+    margin-top: 50px;
+}
+
+.portfolio3{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.port{
+    background-color:white;
+    margin:0px;
+    padding:0px;
+    margin-right:0px;
+    margin-bottom: 10px;
+}
+
+.service{
+    margin-bottom: 50px;
+}
+
+.pain{
+    background-color: #39c9da;
+}
+
+.contact{
+    background-color: #f4f4f4;
+    
+    
+}
+.contact3{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.contact2 input{
+    margin-top: 10px;
+}
+
+.contact2 textarea{
+margin-top: 10px;
+}
+
+.contact2 button{
+margin-top: 10px;
+    width: 200px;
+    height: 40px;
+}
+
+.contact1{
+    margin-bottom: 50px;
+}
+
+.footer{
+    background-color: #39c9da;
+}
+
+.footer p{
+    color: white;
+    font-size: 12px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.but{
+    background-color: #4b4a4b;
+}
+
+.but b{
+    color: white;
+}
+
+.but1{
+    background-color: white;
+}
+
+.pain h4{
+    color: white;
+}
+
+.service button{
+    margin-bottom: 50px;
+}
+
+.service img{
+    margin-top: 20px;
+}
+
+hr{
+    width: 50px;
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 5px;
+}
+
+.abc{
+    background-image: url(images/pr2.png);
+}
+
+
+
+
