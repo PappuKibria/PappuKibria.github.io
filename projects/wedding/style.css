@@ -1,0 +1,201 @@
+@import 'https://fonts.googleapis.com/css?family=Arima+Madurai:300,400,500,700,800';
+
+p,h1,h2,h3,h4,h5,h6,a{
+    font-family: 'Arima Madurai', cursive;
+}
+
+.header{
+    height: 100px;
+}
+
+.header1{
+    height: 80px;
+    margin-top: 20px;
+}
+
+.header2{
+    height: 80px;
+    margin-top: 20px;
+}
+
+.header2 a{
+    text-decoration: none;
+    color: black;
+    margin-left: 25px;
+}
+
+.bottom_header{
+    height: 100px;
+    background-color: #f9f9f9;
+}
+
+.bottom_header h2{
+    text-align: center;
+}
+
+.bottom_header p{
+    text-align: center;
+}
+
+.slider{
+    height: 350px;
+    margin: 0 auto;
+    padding: 0px;
+}
+
+.slider1{
+    height: 400px;
+    margin: 0 auto;
+    padding: 0px;
+}
+
+.slider2{
+    height: 400px;
+    margin: 0 auto;
+    padding: 0px;
+}
+
+.slider3{
+    height: 400px;
+    margin: 0 auto;
+    padding: 0px;
+}
+
+.philosophy{
+    height: 300px;
+    text-align: center;
+}
+
+.philosophy h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.philosophy button{
+    margin-top: 20px;
+}
+.philosophy p{
+    margin-top: 20px;
+}
+
+.philosophy1 p{
+    text-align: center;
+    font-size: 13px;
+}
+}.philosophy2 p{
+    text-align: center;
+}
+}.philosophy3 p{
+    text-align: center;
+}
+}.philosophy4 p{
+    text-align: center;
+}
+
+.main{
+    height: 700px;
+    background: url(images/image.png);
+    background-repeat: no-repeat;
+}
+
+.main button{
+    border: none;
+}
+
+.b1{
+    margin-top: 55px;
+    margin-left: 150px;
+    border: hidden;
+    overflow: hidden;
+}
+
+.b2{
+    margin-top: 135px;
+    margin-left: 150px;
+    border: hidden;
+}
+
+.b3{
+    margin-top: 55px;
+    margin-left: 130px;
+    border: hidden;
+}
+
+.b4{
+    margin-top: 135px;
+    margin-left: 130px;
+    border: hidden;
+}
+
+.b5{
+    margin-top: 55px;
+    margin-left: 100px;
+    border: none;
+}
+
+.b6{
+    margin-top: 135px;
+    margin-left: 100px;
+    border: none;
+}
+
+.blog{
+    height: 620px;
+}
+
+.blog h1{
+    margin-top: 50px;
+}
+
+.blog button{
+    color: black;
+    margin-top: 20px;
+}
+
+.blog1{
+    margin-top: 20px;
+}
+.blog2{
+    margin-top: 20px;
+}
+.blog3{
+    margin-top: 20px;
+}
+.blog4{
+    margin-top: 20px;
+}
+.blog1{
+    margin-top: 20px;
+}
+.blog1 img{
+    margin-bottom: 20px;
+}
+.blog2 img{
+    margin-bottom: 20px;
+}
+.blog3 img{
+    margin-bottom: 20px;
+}
+.blog4 img{
+    margin-bottom: 20px;
+}
+
+.footer{
+    background-color: #333333;
+    height: 50px;
+}
+
+.footer1{
+    height: 50px;
+}
+
+.footer1 p{
+    color: white;
+    margin-top: 20px;
+}
+
+.footer2{
+    height: 50px;
+    float: right;
+    margin-right: -300px;
+}
